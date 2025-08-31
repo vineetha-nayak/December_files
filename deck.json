@@ -1,0 +1,14 @@
+
+[
+    {"front": "What is the Python keyword to define a function?", "back": "'def'"},
+    {"front": "What does CPU stand for?", "back": "Central Processing Unit"},
+    {"front": "Name the process by which plants make food.", "back": "Photosynthesis"},
+    {"front": "What is the powerhouse of the cell?", "back": "Mitochondria"},
+    {"front": "In what year was Python first released?", "back": "1991"},
+    {"front": "What does JSON stand for?", "back": "JavaScript Object Notation"},
+    {"front": "What is the main purpose of a firewall?", "back": "To protect networks by controlling incoming and outgoing traffic"},
+    {"front": "What does RAM stand for?", "back": "Random Access Memory"},
+    {"front": "What is the boiling point of water at sea level (°C)?", "back": "100°C"}
+
+
+]
